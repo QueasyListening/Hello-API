@@ -3,7 +3,7 @@
 *
 */
 
-// Global variables
+// Config variables
 const PORT = 3000;
 
 // Dependencies
